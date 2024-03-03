@@ -25,10 +25,6 @@ urlpatterns = [
 
 
 
-
-
-
-
 ]
 
 
